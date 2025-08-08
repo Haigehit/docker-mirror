@@ -1,4 +1,4 @@
-name: Haigehit 镜像 action
+name: zhenjiuwang 镜像 action
 
 on:
   workflow_dispatch:
